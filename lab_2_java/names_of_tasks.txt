@@ -1,0 +1,16 @@
+roundNum                 task 1
+CurrencyConverter        task 2
+CelToFahr                task 3
+InvestmentCalculator     task 4
+EvenNumbers              task 5
+EvenOddChecker           task 6
+TicketCal                task 7
+LinearCal                task 8
+FactorialCal             task 9
+DigitSum                 task 10
+Between                  task 11
+MaxNumber                task 12
+YearChecker              task 13
+SignFunction             task 14
+ChangeCal                task 15
+IceCream                 task 16
