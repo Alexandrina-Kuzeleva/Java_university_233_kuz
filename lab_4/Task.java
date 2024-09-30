@@ -23,7 +23,7 @@ public class Main {
     // проверка наличия цифр или пунктуации
     public static boolean DigitOrPunct(String word) {
         for (char ch : word.toCharArray()) {
-            if (Character.isDigit(ch) || isPunctuation(ch)) {
+            if (Character.isDigit(ch) || isPunct(ch)) {
                 return true;
             }
         }
