@@ -1,4 +1,4 @@
-package imo_233_kuz.lab_3_java;
+
 
 public class Main {
     //array 1 10 tasks

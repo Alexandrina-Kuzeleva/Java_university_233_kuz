@@ -1,4 +1,4 @@
-package lab_4_java;
+package lab_4;
 
 public class Main {
     //string 2 7 tasks
@@ -67,19 +67,6 @@ public class Main {
         }
         return false;
     }
-
-    //task Вводится строка состоящая из 2 или более слов. Нужно вывести все те слова, в которых встречаются цифры или символы пунктации
-    public void printWordsWithDigitsOrPunctuation(String input) {
-        for (String word : input.split(" ")) {
-            if (word.matches(".*\\d.*") || word.matches(".*\\p{Punct}.*")) {
-                System.out.println(word);
-            }
-        }
-    }
-    
-
-    
-    
   
     
 }
